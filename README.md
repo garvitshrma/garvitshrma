@@ -8,8 +8,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +20,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitshrma&show_icons=true&theme=default)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garvitshrma&theme=radical)
 
 ---
 
