@@ -19,13 +19,18 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garvitshrma&theme=radical)
 
 ---
 
-## 📫 Contact
-- Email: giantgarvit@gmail.com
-- LinkedIn: www.linkedin.com/in/-garvitsharma 👋
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/-garvitsharma)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giantgarvit@gmail.com)
+
+
 
 
