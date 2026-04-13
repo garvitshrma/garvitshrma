@@ -20,6 +20,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitshrma&show_icons=true&theme=default)
 
 ---
 
