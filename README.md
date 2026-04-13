@@ -25,6 +25,6 @@
 
 ## 📫 Contact
 - Email: giantgarvit@gmail.com
-- LinkedIn: your-link## Hi there 👋
+- LinkedIn: www.linkedin.com/in/-garvitsharma 👋
 
 
