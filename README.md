@@ -20,7 +20,7 @@
 
 ---
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garvitshrma&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=garvitshrma&theme=radical)
 
 ---
 
