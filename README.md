@@ -1,8 +1,8 @@
 # Hi 👋 I'm Garvit Sharma
 
 ## 🚀 About Me
-- Interested in Web Development and Structural Engineering tools
-- Currently working on Osdag-web bridge module
+- Interested in Web Development, App Development and building real world scalable projects.
+- Worked on Osdag-web bridge module
 
 ---
 
