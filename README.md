@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - Interested in Web Development, App Development and building real world scalable projects.
-- Worked on Osdag-web bridge module
+- Worked on Osdag-web (by IIT Bombay) bridge module 
 
 ---
 
