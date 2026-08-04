@@ -8,10 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=garvitshrma&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/garvitshrma?label=Followers&style=for-the-badge&color=1F6FEB&logo=github&logoColor=white" alt="Followers" />
   <a href="https://www.linkedin.com/in/-garvitsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:giantgarvit@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://bitefy.in"><img src="https://img.shields.io/badge/Bitefy-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bitefy" /></a>
 </div>
 
 <br/>
@@ -96,37 +95,49 @@ ask_me_about: React, Django REST, Postgres, deployment
 
 ---
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub in Numbers
+<!-- ===================== SNAPSHOT ===================== -->
+## 📊 Snapshot
 
 <div align="center">
 
-<!-- Host A: github-profile-summary-cards -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garvitshrma&theme=github_dark" alt="Profile details" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garvitshrma&theme=github_dark" alt="Most commit language" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garvitshrma&theme=github_dark" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garvitshrma&theme=github_dark" alt="Stats" />
-
-<br/><br/>
-
-<!-- Host B: github-readme-stats  ·  swap the domain below for your own Vercel deploy if these go blank -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvitshrma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=1F6FEB&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitshrma&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="Top languages" />
-
-<br/><br/>
-
-<!-- Host C: streak-stats -->
-<img width="49%" src="https://streak-stats.demolab.com?user=garvitshrma&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=1F6FEB&currStreakLabel=8B5CF6&border_radius=12" alt="GitHub streak" />
-
-<br/><br/>
-
-<!-- Host D: contribution graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=garvitshrma&bg_color=0D1117&color=8B5CF6&line=1F6FEB&point=ffffff&area=true&hide_border=true&radius=12" alt="Contribution activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=garvitshrma&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://img.shields.io/github/followers/garvitshrma?label=Followers&style=for-the-badge&color=1F6FEB&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-8B5CF6?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Currently-Shipping%20Bitefy-1F6FEB?style=for-the-badge" alt="Currently" />
+<img src="https://img.shields.io/badge/Open%20to-Collabs%20%26%20Freelance-46E3B7?style=for-the-badge" alt="Open to" />
 
 </div>
+
+| | |
+|---|---|
+| **Main stack** | React · Vite · Tailwind · Django REST · PostgreSQL |
+| **Ships to** | Vercel (frontend) · Render (backend) · Supabase (DB) |
+| **In production** | Payment integration, order pipelines, multi-tenant menus |
+| **Comfortable with** | REST API design, JWT auth, CORS, deployment debugging |
+| **Learning next** | Webhooks, server-side validation, system design |
+
+> My contribution graph and achievements are rendered by GitHub right below this README.
+
+<!--
+  ============================================================
+  OPTIONAL: dynamic stat cards
+  ------------------------------------------------------------
+  These are commented out on purpose. They are served by
+  third-party servers that query the GitHub API, and GitHub's
+  image proxy (camo) drops them whenever those servers are slow,
+  rate-limited or down — which is why they showed alt text.
+
+  To try them again, delete this comment block's opening and
+  closing markers. To make them permanent, deploy your own
+  instance and swap the domain.
+  ============================================================
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvitshrma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=1F6FEB&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitshrma&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="Top languages" />
+<img width="49%" src="https://streak-stats.demolab.com?user=garvitshrma&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=1F6FEB&currStreakLabel=8B5CF6" alt="GitHub streak" />
+</div>
+
+-->
 
 ---
 
