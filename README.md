@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/garvitshrma?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-1F6FEB?style=for-the-badge" alt="Focus" />
   <a href="https://www.linkedin.com/in/-garvitsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:giantgarvit@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://bitefy.in"><img src="https://img.shields.io/badge/Bitefy-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bitefy" /></a>
 </div>
 
 <br/>
@@ -42,20 +43,20 @@ ask_me_about: React, Django REST, Postgres, deployment
 <div align="center">
 
 ### Core
-<img src="https://skillicons.dev/icons?i=python,cs,js,react,django,tailwind&theme=dark" alt="Python, C#, JavaScript, React, Django, Tailwind" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,react,django&theme=dark" alt="Python, C#, JavaScript, TypeScript, React, Django" />
 
-### Data · AI · Infra
-<img src="https://skillicons.dev/icons?i=postgres,supabase,tensorflow,vercel,git,github&theme=dark" alt="Postgres, Supabase, TensorFlow, Vercel, Git, GitHub" />
+### Styling · Data · Infra
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,postgres,supabase,vercel&theme=dark" alt="Tailwind, HTML, CSS, Postgres, Supabase, Vercel" />
 
 ### Also in the toolbox
-<img src="https://skillicons.dev/icons?i=html,css,vite,unity,postman,vscode&theme=dark" alt="HTML, CSS, Vite, Unity, Postman, VS Code" />
+<img src="https://skillicons.dev/icons?i=tensorflow,unity,vite,git,github,postman&theme=dark" alt="TensorFlow, Unity, Vite, Git, GitHub, Postman" />
 
 <br/>
 
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+<img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
+<img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
 
 </div>
 
@@ -67,77 +68,77 @@ ask_me_about: React, Django REST, Postgres, deployment
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍽️ Bitefy</h3>
-      <p>QR-code based ordering and restaurant management SaaS. Live menus, order tracking, statistics dashboard and real UPI payments — running with paying customers.</p>
+      <h3><a href="https://github.com/garvitshrma/Bitefy">🍽️ Bitefy</a></h3>
+      <p>QR-code ordering and restaurant management SaaS. Live menus, order tracking, statistics dashboard and real UPI payments — running with paying customers.</p>
       <p><code>React</code> <code>Django REST</code> <code>Supabase</code> <code>Razorpay</code></p>
-      <a href="https://bitefy.in"><img src="https://img.shields.io/badge/Live_site-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live site" /></a>
+      <a href="https://bitefy.in"><img src="https://img.shields.io/badge/Live-bitefy.in-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live site" /></a>
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/Bitefy?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
     </td>
     <td width="50%" valign="top">
-      <h3>🌉 Osdag-web · IIT Bombay</h3>
-      <p>Contributed to the bridge module of an open-source structural steel design platform used for teaching and real engineering workflows.</p>
+      <h3><a href="https://github.com/garvitshrma/osdag-web-bridge-module">🌉 Osdag-web · Bridge Module</a></h3>
+      <p>Contributed to the bridge module of IIT Bombay's open-source structural steel design platform, used in teaching and real engineering workflows.</p>
       <p><code>Python</code> <code>Django</code> <code>Open Source</code></p>
-      <img src="https://img.shields.io/badge/Open_Source-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Open source" />
+      <img src="https://img.shields.io/github/languages/top/garvitshrma/osdag-web-bridge-module?style=flat-square&color=8B5CF6" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/osdag-web-bridge-module?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌊 OpenLake Website</h3>
-      <p>Website for IIT Bhilai's open-source club — routing, newsletter and programs pages, deployed on Vercel.</p>
+      <h3><a href="https://github.com/garvitshrma/OpenLake-website">🌊 OpenLake Website</a></h3>
+      <p>Site for IIT Bhilai's open-source club — routing, newsletter and programs pages, deployed on Vercel.</p>
       <p><code>Next.js</code> <code>React</code> <code>Vercel</code></p>
+      <img src="https://img.shields.io/github/languages/top/garvitshrma/OpenLake-website?style=flat-square&color=8B5CF6" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/OpenLake-website?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
     </td>
     <td width="50%" valign="top">
-      <h3>🕹️ 3D Campus Experience</h3>
-      <p>Competition build: an interactive site featuring a custom 3D model of IIT Bhilai's H-Building and a playable Dino game.</p>
+      <h3><a href="https://github.com/garvitshrma/gdg-website">🕹️ GDG 3D Campus Site</a></h3>
+      <p>Competition build: interactive site with a custom 3D model of IIT Bhilai's H-Building and a playable Dino game.</p>
       <p><code>react-three-fiber</code> <code>GSAP</code> <code>Vite</code></p>
+      <img src="https://img.shields.io/github/languages/top/garvitshrma/gdg-website?style=flat-square&color=8B5CF6" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/gdg-website?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/garvitshrma/CompassAI">🧭 CompassAI</a></h3>
+      <p>AI-assisted guidance project.</p>
+      <img src="https://img.shields.io/github/languages/top/garvitshrma/CompassAI?style=flat-square&color=8B5CF6" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/CompassAI?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/garvitshrma/acadmap">🗺️ Acadmap</a></h3>
+      <p>Academic mapping and planning tool.</p>
+      <img src="https://img.shields.io/github/languages/top/garvitshrma/acadmap?style=flat-square&color=8B5CF6" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/garvitshrma/acadmap?style=flat-square&color=1F6FEB&label=updated" alt="Last commit" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/garvitshrma?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+</div>
+
 ---
 
-<!-- ===================== SNAPSHOT ===================== -->
-## 📊 Snapshot
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub in Numbers
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/garvitshrma?label=Followers&style=for-the-badge&color=1F6FEB&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-8B5CF6?style=for-the-badge" alt="Focus" />
-<img src="https://img.shields.io/badge/Currently-Shipping%20Bitefy-1F6FEB?style=for-the-badge" alt="Currently" />
-<img src="https://img.shields.io/badge/Open%20to-Collabs%20%26%20Freelance-46E3B7?style=for-the-badge" alt="Open to" />
+<img src="https://img.shields.io/github/followers/garvitshrma?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/badge/Public_repos-21-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
+<img src="https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20TS%20%7C%20HTML%20%7C%20CSS-46E3B7?style=for-the-badge" alt="Languages" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/stars/garvitshrma/Bitefy?style=flat-square&label=Bitefy%20stars&color=8B5CF6&logo=github" alt="Bitefy stars" />
+<img src="https://img.shields.io/github/stars/garvitshrma/OpenLake-website?style=flat-square&label=OpenLake%20stars&color=8B5CF6&logo=github" alt="OpenLake stars" />
+<img src="https://img.shields.io/github/stars/garvitshrma/CompassAI?style=flat-square&label=CompassAI%20stars&color=8B5CF6&logo=github" alt="CompassAI stars" />
+<img src="https://img.shields.io/github/stars/garvitshrma/gdg-website?style=flat-square&label=GDG%20site%20stars&color=8B5CF6&logo=github" alt="GDG site stars" />
 
 </div>
 
-| | |
-|---|---|
-| **Main stack** | React · Vite · Tailwind · Django REST · PostgreSQL |
-| **Ships to** | Vercel (frontend) · Render (backend) · Supabase (DB) |
-| **In production** | Payment integration, order pipelines, multi-tenant menus |
-| **Comfortable with** | REST API design, JWT auth, CORS, deployment debugging |
-| **Learning next** | Webhooks, server-side validation, system design |
-
-> My contribution graph and achievements are rendered by GitHub right below this README.
-
-<!--
-  ============================================================
-  OPTIONAL: dynamic stat cards
-  ------------------------------------------------------------
-  These are commented out on purpose. They are served by
-  third-party servers that query the GitHub API, and GitHub's
-  image proxy (camo) drops them whenever those servers are slow,
-  rate-limited or down — which is why they showed alt text.
-
-  To try them again, delete this comment block's opening and
-  closing markers. To make them permanent, deploy your own
-  instance and swap the domain.
-  ============================================================
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvitshrma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=1F6FEB&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitshrma&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="Top languages" />
-<img width="49%" src="https://streak-stats.demolab.com?user=garvitshrma&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=1F6FEB&currStreakLabel=8B5CF6" alt="GitHub streak" />
-</div>
-
--->
+> My contribution graph lives right above this README on my profile — the real one, not a proxied screenshot of it.
 
 ---
 
