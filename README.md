@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+React+%2B+Django;Shipping+Bitefy+%E2%80%94+SaaS+for+restaurants;Open+Source+%40+OpenLake%2C+IIT+Bhilai;I+like+problems+that+survive+production" alt="Full-Stack Developer | React + Django" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+React+%2B+Django;Shipping+Bitefy+%E2%80%94+SaaS+for+restaurants;Domain+Lead%40+OpenLake%2C+IIT+Bhilai;I+like+problems+that+survive+production" alt="Full-Stack Developer | React + Django" />
 </div>
 
 <div align="center">
